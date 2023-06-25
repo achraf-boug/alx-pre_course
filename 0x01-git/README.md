@@ -1,1 +1,1 @@
-non empty readme for second folder
+Readme dedicated to git course
